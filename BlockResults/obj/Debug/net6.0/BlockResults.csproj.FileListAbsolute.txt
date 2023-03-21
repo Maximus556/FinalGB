@@ -1,0 +1,15 @@
+/Users/macbookretina12/Desktop/Final/BlockResults/bin/Debug/net6.0/BlockResults
+/Users/macbookretina12/Desktop/Final/BlockResults/bin/Debug/net6.0/BlockResults.deps.json
+/Users/macbookretina12/Desktop/Final/BlockResults/bin/Debug/net6.0/BlockResults.runtimeconfig.json
+/Users/macbookretina12/Desktop/Final/BlockResults/bin/Debug/net6.0/BlockResults.dll
+/Users/macbookretina12/Desktop/Final/BlockResults/bin/Debug/net6.0/BlockResults.pdb
+/Users/macbookretina12/Desktop/Final/BlockResults/obj/Debug/net6.0/BlockResults.csproj.AssemblyReference.cache
+/Users/macbookretina12/Desktop/Final/BlockResults/obj/Debug/net6.0/BlockResults.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookretina12/Desktop/Final/BlockResults/obj/Debug/net6.0/BlockResults.AssemblyInfoInputs.cache
+/Users/macbookretina12/Desktop/Final/BlockResults/obj/Debug/net6.0/BlockResults.AssemblyInfo.cs
+/Users/macbookretina12/Desktop/Final/BlockResults/obj/Debug/net6.0/BlockResults.csproj.CoreCompileInputs.cache
+/Users/macbookretina12/Desktop/Final/BlockResults/obj/Debug/net6.0/BlockResults.dll
+/Users/macbookretina12/Desktop/Final/BlockResults/obj/Debug/net6.0/refint/BlockResults.dll
+/Users/macbookretina12/Desktop/Final/BlockResults/obj/Debug/net6.0/BlockResults.pdb
+/Users/macbookretina12/Desktop/Final/BlockResults/obj/Debug/net6.0/BlockResults.genruntimeconfig.cache
+/Users/macbookretina12/Desktop/Final/BlockResults/obj/Debug/net6.0/ref/BlockResults.dll
